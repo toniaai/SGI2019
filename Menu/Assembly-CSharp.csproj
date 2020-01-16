@@ -54,6 +54,7 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Manager.cs" />
+     <Compile Include="Assets\Pausa.cs" />
  <Reference Include="Unity.TextMeshPro.Editor">
  <HintPath>C:/Users/juliaamaya/SGI2019/Menu/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
